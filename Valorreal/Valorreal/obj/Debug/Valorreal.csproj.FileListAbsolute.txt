@@ -1,0 +1,6 @@
+c:\users\e5-475\documents\visual studio 2015\Projects\Valorreal\Valorreal\bin\Debug\Valorreal.exe.config
+c:\users\e5-475\documents\visual studio 2015\Projects\Valorreal\Valorreal\bin\Debug\Valorreal.exe
+c:\users\e5-475\documents\visual studio 2015\Projects\Valorreal\Valorreal\bin\Debug\Valorreal.pdb
+c:\users\e5-475\documents\visual studio 2015\Projects\Valorreal\Valorreal\obj\Debug\Valorreal.exe
+c:\users\e5-475\documents\visual studio 2015\Projects\Valorreal\Valorreal\obj\Debug\Valorreal.pdb
+c:\users\e5-475\documents\visual studio 2015\Projects\Valorreal\Valorreal\obj\Debug\Valorreal.csprojResolveAssemblyReference.cache
